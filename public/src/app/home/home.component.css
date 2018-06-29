@@ -1,0 +1,22 @@
+.zipform {
+    text-align: center;
+}
+
+.reg {
+    size: 12pt;
+    font-family: sans-serif;
+    color: blueviolet;
+    height: 10px;
+    width: 200px;
+    text-align: right;
+    float: right;
+}
+.tag{
+    size: 22pt;
+    height: 10px;
+}
+
+.displayItem {
+    font-size: 30px;
+    text-align: center;
+}
